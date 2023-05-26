@@ -1,0 +1,251 @@
+.rectangles .rectangle {
+    border-radius: 30px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 5px;
+    background: #656CEC;
+    width: 1440px;
+    height: 508px;
+    border: 1px solid #000;
+    
+   
+    position: relative;
+}
+
+.rectangles .rectangle .line {
+  background: #fefefe;
+  height: 1px;
+  width: 1440px;
+  position: absolute;
+  top: 80px;
+  
+  
+  
+}
+
+.rectangles .rectangle .circle1 {
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 280px;
+  width: 280px;
+  position: absolute;
+  top: 144px;
+  left: 580px;
+  border: 5px solid white;
+  
+}
+
+.rectangles .rectangle .circle2 {
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  top: 213px;
+  left: 338px;
+  border: 5px solid white;
+  
+}
+
+.rectangles .rectangle .circle3 {
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  top: 213px;
+  right: 320px;
+  border: 5px solid white;
+  
+}
+
+.rectangles .rectangle .rectangle1 {
+  background: #BABEFF;
+  height: 45px;
+  width: 228px;
+  position: absolute;
+  top: 445px;
+  left: 610px;
+  border-radius: 50px;
+  
+}
+
+.rectangles .rectangle .rectangle2 {
+  background: #BABEFF;
+  height: 45px;
+  width: 228px;
+  position: absolute;
+  top: 445px;
+  left: 310px;
+  border-radius: 50px;
+  
+}
+
+.rectangles .rectangle .rectangle3 {
+  background: #BABEFF;
+  height: 45px;
+  width: 228px;
+  position: absolute;
+  top: 445px;
+  left: 910px;
+  border-radius: 50px;
+  
+}
+
+.rectangles .rectangle .rectangle1.h
+{
+  padding: 10px;
+  position: relative;
+}
+
+
+.second
+{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  background: #D2D4F2;
+  width: 1440px;
+  height: 100px;
+  
+  
+}
+
+
+.circle{
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 554px;
+  left: 120px;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.third
+{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  background: #D2D4F2;
+  width: 1440px;
+  height: 100px;
+  
+  
+}
+
+.fourth
+{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  background: #D2D4F2;
+  width: 1440px;
+  height: 100px;
+  
+  
+}
+
+.fifth
+{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  background: #D2D4F2;
+  width: 1440px;
+  height: 100px;
+  
+  
+}
+
+.sixth
+{
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 5px;
+  background: #D2D4F2;
+  width: 1440px;
+  height: 100px;
+  
+  
+}
+
+.circle4
+{
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 688px;
+  left: 120px;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+
+.circle5
+{
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 824px;
+  left: 120px;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.circle6
+{
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 958px;
+  left: 120px;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.circle7
+{
+  background: #BABEFF;
+  border-radius: 5000px;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 1092px;
+  left: 120px;
+  border: 3px solid rgb(255, 255, 255);
+}
+
+.second.span {
+  width: 100px;
+  height: 100px;
+  
+  font-family: Inter;
+  font-size: 50px;
+  text-align: left;
+  color: #1e1e1e;
+}
+
+.five.h3{
+  top: 500px;
+  left: 100px;
+}
+
+.Joe {
+  width: 227px;
+  height: 36px;
+  margin: 20px 637px 24px 50px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1e1e1e;
+}
